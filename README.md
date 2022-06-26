@@ -26,6 +26,4 @@ samples, guidance on mobile development, and a full API reference.
 
 <img src="https://scontent.fhan5-2.fna.fbcdn.net/v/t1.15752-9/289698199_1261683091239447_7445901331830697870_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ggQy6kPvkeEAX-tkm9c&_nc_ht=scontent.fhan5-2.fna&oh=03_AVI5yRVv_Gfc9S8A15M4ZiNaAL6ckoWfyfCSuMIx2_-mVA&oe=62DDBEA0" width="400" height="500" />
 
-<img src="https://scontent.fhan5-2.fna.fbcdn.net/v/t1.15752-9/289698199_1261683091239447_7445901331830697870_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ggQy6kPvkeEAX-tkm9c&_nc_ht=scontent.fhan5-2.fna&oh=03_AVI5yRVv_Gfc9S8A15M4ZiNaAL6ckoWfyfCSuMIx2_-mVA&oe=62DDBEA0" width="400" height="500" />
-
 <img src="https://scontent.fhan5-7.fna.fbcdn.net/v/t1.15752-9/289365661_1016164709042093_5823941069246527889_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=YesFVR5SCssAX9l67-c&_nc_ht=scontent.fhan5-7.fna&oh=03_AVKHtbmVHOISARZnPpqxGSaS52MK86mWbHrBGGlMJnqhUw&oe=62DF3041" width="400" height="500" />
